@@ -1,3 +1,9 @@
 var Logic = require('logic-solver');
 
-module.exports = Logic
+
+function LS() {
+
+return Logic;
+
+}
+module.exports = LS
